@@ -1,0 +1,4 @@
+name: SuffocationBlocker
+version: ${project.version}
+main: com.bilicraft.suffocationblocker.SuffocationBlocker
+api-version: 1.17
